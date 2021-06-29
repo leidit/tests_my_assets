@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Test Ex#0016 Leidit Icon ">77c7f9901bc53450888fea8bbc4bcb3e</copied_from>
+        <description/>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>Test Ex#0016 Leidit Icon  copy</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>akopti</sys_created_by>
+        <sys_created_on>2021-06-29 16:45:03</sys_created_on>
+        <sys_id>9c5239e51b09745048da8489cc4bcb66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Ex#0016 Leidit Icon  copy</sys_name>
+        <sys_package display_value="Tests My Assets" source="x_leidi_tests_my_a">7f09692d1bc5745048da8489cc4bcb54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tests My Assets">7f09692d1bc5745048da8489cc4bcb54</sys_scope>
+        <sys_update_name>sys_atf_test_9c5239e51b09745048da8489cc4bcb66</sys_update_name>
+        <sys_updated_by>akopti</sys_updated_by>
+        <sys_updated_on>2021-06-29 16:45:03</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=9c5239e51b09745048da8489cc4bcb66"/>
+</record_update>
