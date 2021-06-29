@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Click Component (Custom UI)">33c47ddc1b853450888fea8bbc4bcb61</copied_from>
+        <description>Click the component: 'Menu item &lt;a&gt;: Profile'</description>
+        <display_name>Click Component (Custom UI)</display_name>
+        <inputs/>
+        <mugshots_cache_json>{"53894a509f673e5d32d70c16580a5eb1":"{\"area\":\"Leidit My Assets Header\",\"sn_atf_mugshot_short_description\":\"Menu item &lt;a&gt;: Profile\",\"inner_text\":\"Profile\",\"role\":\"menuitem\",\"sn_atf_mugshot_long_description\":\"Menu item &lt;a&gt;: Profile in page area Leidit My Assets Header\",\"methods\":[\"click\"],\"sn_atf_mugshot_label\":\"Profile\",\"type\":\"\",\"version\":\"18.0\",\"get_value_result\":\"Profile\",\"sn_atf_mugshot_tag_display_name\":\"Menu item &lt;a&gt;\",\"sn_atf_mugshot_value\":\"\",\"tag\":\"a\",\"isDisabled\":false,\"hash\":\"53894a509f673e5d32d70c16580a5eb1\"}"}</mugshots_cache_json>
+        <notes/>
+        <order>4</order>
+        <snapshot/>
+        <step_config display_value="Click Component (Custom UI)">def25c4b73730300c79260bdfaf6a700</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>akopti</sys_created_by>
+        <sys_created_on>2021-06-29 16:40:48</sys_created_on>
+        <sys_id>8e5135a51b09745048da8489cc4bcb2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Click Component (Custom UI)</sys_name>
+        <sys_package display_value="Tests My Assets" source="x_leidi_tests_my_a">7f09692d1bc5745048da8489cc4bcb54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tests My Assets">7f09692d1bc5745048da8489cc4bcb54</sys_scope>
+        <sys_update_name>sys_atf_step_8e5135a51b09745048da8489cc4bcb2d</sys_update_name>
+        <sys_updated_by>akopti</sys_updated_by>
+        <sys_updated_on>2021-06-29 16:40:48</sys_updated_on>
+        <table/>
+        <test display_value="Test Ex#0014 Profile access copy">0651f1a51b09745048da8489cc4bcb6f</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=8e5135a51b09745048da8489cc4bcb2d"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8e5135a51b09745048da8489cc4bcb2d</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>akopti</sys_created_by>
+        <sys_created_on>2021-06-29 16:40:48</sys_created_on>
+        <sys_id>0e5135a51b09745048da8489cc4bcb2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>akopti</sys_updated_by>
+        <sys_updated_on>2021-06-29 16:40:48</sys_updated_on>
+        <value>53894a509f673e5d32d70c16580a5eb1</value>
+        <variable display_value="">ee05588b73730300c79260bdfaf6a749</variable>
+    </sys_variable_value>
+</record_update>
