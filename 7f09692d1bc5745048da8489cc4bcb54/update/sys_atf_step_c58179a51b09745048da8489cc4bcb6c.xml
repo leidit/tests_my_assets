@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Click Component (Custom UI)">f5c5b9101bc53450888fea8bbc4bcb34</copied_from>
+        <description>Click the component: 'Menu item &lt;a&gt;: Akio Tanaka (vp it operations)'</description>
+        <display_name>Click Component (Custom UI)</display_name>
+        <inputs/>
+        <mugshots_cache_json>{"65ad05f0c7b84b508aa5c7c8b54b3142":"{\"area\":\"Leidit My Assets Header\",\"sn_atf_mugshot_short_description\":\"Menu item &lt;a&gt;: Akio Tanaka (vp it operations)\",\"inner_text\":\"Akio Tanaka (vp it operations)\",\"role\":\"menuitem\",\"sn_atf_mugshot_long_description\":\"Menu item &lt;a&gt; [profile-dropdown]: Akio Tanaka (vp it operations) in page area Leidit My Assets Header\",\"methods\":[\"click\"],\"sn_atf_mugshot_label\":\"Akio Tanaka (vp it operations)\",\"index\":0,\"type\":\"\",\"title\":\"User options\",\"version\":\"18.0\",\"get_value_result\":\"Akio Tanaka (vp it operations)\",\"sn_atf_mugshot_tag_display_name\":\"Menu item &lt;a&gt;\",\"sn_atf_mugshot_value\":\"\",\"tag\":\"a\",\"isDisabled\":false,\"id\":\"profile-dropdown\",\"aria-label\":\"User options: Akio Tanaka (vp it operations)\",\"hash\":\"65ad05f0c7b84b508aa5c7c8b54b3142\"}"}</mugshots_cache_json>
+        <notes/>
+        <order>3</order>
+        <snapshot display_value="ae02591bda8e6bd90854c4cf7ccdc16a">fac47ddc1b853450888fea8bbc4bcbab</snapshot>
+        <step_config display_value="Click Component (Custom UI)">def25c4b73730300c79260bdfaf6a700</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>akopti</sys_created_by>
+        <sys_created_on>2021-06-29 16:41:33</sys_created_on>
+        <sys_id>c58179a51b09745048da8489cc4bcb6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Click Component (Custom UI)</sys_name>
+        <sys_package display_value="Tests My Assets" source="x_leidi_tests_my_a">7f09692d1bc5745048da8489cc4bcb54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tests My Assets">7f09692d1bc5745048da8489cc4bcb54</sys_scope>
+        <sys_update_name>sys_atf_step_c58179a51b09745048da8489cc4bcb6c</sys_update_name>
+        <sys_updated_by>akopti</sys_updated_by>
+        <sys_updated_on>2021-06-29 16:41:33</sys_updated_on>
+        <table/>
+        <test display_value="Test Ex#0015 Logout copy">4181f5a51b09745048da8489cc4bcb17</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=c58179a51b09745048da8489cc4bcb6c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>c58179a51b09745048da8489cc4bcb6c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>akopti</sys_created_by>
+        <sys_created_on>2021-06-29 16:41:33</sys_created_on>
+        <sys_id>858179a51b09745048da8489cc4bcb6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>akopti</sys_updated_by>
+        <sys_updated_on>2021-06-29 16:41:33</sys_updated_on>
+        <value>65ad05f0c7b84b508aa5c7c8b54b3142</value>
+        <variable display_value="">ee05588b73730300c79260bdfaf6a749</variable>
+    </sys_variable_value>
+</record_update>
