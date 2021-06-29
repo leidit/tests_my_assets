@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Validate Outbound Email">a480395d1b09f450888fea8bbc4bcb3c</copied_from>
+        <description>Validate that an email was generated matching query:
+State is anything
+and Recipients = Anton Kopti
+and User ID is anything
+and Subject is anything
+and Body is anything
+and Headers is anything
+With a failure timeout of 30 Seconds</description>
+        <display_name>Validate Outbound Email</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>12</order>
+        <snapshot/>
+        <step_config display_value="Validate Outbound Email">32911152c3833300eaac11fe81d3ae82</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>akopti</sys_created_by>
+        <sys_created_on>2021-06-29 16:42:26</sys_created_on>
+        <sys_id>0ab13da51b09745048da8489cc4bcbc3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Validate Outbound Email</sys_name>
+        <sys_package display_value="Tests My Assets" source="x_leidi_tests_my_a">7f09692d1bc5745048da8489cc4bcb54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tests My Assets">7f09692d1bc5745048da8489cc4bcb54</sys_scope>
+        <sys_update_name>sys_atf_step_0ab13da51b09745048da8489cc4bcbc3</sys_update_name>
+        <sys_updated_by>akopti</sys_updated_by>
+        <sys_updated_on>2021-06-29 16:42:26</sys_updated_on>
+        <table/>
+        <test display_value="Test EX#0021 Disputing asset copy">7db179a51b09745048da8489cc4bcb13</test>
+        <timeout>1970-01-01 00:00:30</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=0ab13da51b09745048da8489cc4bcbc3"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0ab13da51b09745048da8489cc4bcbc3</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>akopti</sys_created_by>
+        <sys_created_on>2021-06-29 16:42:26</sys_created_on>
+        <sys_id>8ab13da51b09745048da8489cc4bcbc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>akopti</sys_updated_by>
+        <sys_updated_on>2021-06-29 16:42:26</sys_updated_on>
+        <value>sys_email</value>
+        <variable display_value="">80625552c3833300eaac11fe81d3aedc</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0ab13da51b09745048da8489cc4bcbc3</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>akopti</sys_created_by>
+        <sys_created_on>2021-06-29 16:42:26</sys_created_on>
+        <sys_id>c6b13da51b09745048da8489cc4bcbc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>akopti</sys_updated_by>
+        <sys_updated_on>2021-06-29 16:42:26</sys_updated_on>
+        <value>stateANYTHING^recipients=Anton Kopti^user_idANYTHING^subjectANYTHING^bodyANYTHING^headersANYTHING^EQ</value>
+        <variable display_value="">7d821952c3833300eaac11fe81d3ae2e</variable>
+    </sys_variable_value>
+</record_update>

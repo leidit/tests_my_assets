@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Set Component Values (Custom UI)">c550755d1b09f450888fea8bbc4bcb78</copied_from>
+        <description>Set the components on the page as follows:
+'Text &lt;input&gt;: Recipient✱' = Anton Kopti
+'Text &lt;textarea&gt;: Message✱' = test test
+</description>
+        <display_name>Set Component Values (Custom UI)</display_name>
+        <inputs/>
+        <mugshots_cache_json>{"076722419422976880c1e9c8a94e2fb5":"{\"area\":\"Leidit Assets audit contact\",\"sn_atf_mugshot_short_description\":\"Text &lt;textarea&gt;: Message✱\",\"role\":\"textbox\",\"sn_atf_mugshot_long_description\":\"Text &lt;textarea&gt; [messageContent]: Message✱ with value Dear Anton Kopti, Our records indicate that you... in page area Leidit Assets audit contact\",\"methods\":[\"setValue\"],\"sn_atf_mugshot_label\":\"Message✱\",\"type\":\"textarea\",\"version\":\"18.0\",\"label_for_input\":{\"inner_text\":\"Message✱\"},\"get_value_result\":\"Dear Anton Kopti,\\nOur records indicate that you have device with asset tag P1000433, Description: undefined and we need you to certify whether you have it or not.\\nPlease validate you asset(s) in My Assets page.\",\"sn_atf_mugshot_tag_display_name\":\"Text &lt;textarea&gt;\",\"name\":\"messageContent\",\"sn_atf_mugshot_value\":\"Dear Anton Kopti,\\nOur records indicate that you have device with asset tag P1000433, Description: undefined and we need you to certify whether you have it or not.\\nPlease validate you asset(s) in My Assets page.\",\"tag\":\"textarea\",\"isDisabled\":false,\"id\":\"messageContent\",\"hash\":\"076722419422976880c1e9c8a94e2fb5\",\"html_value\":\"Dear Anton Kopti,\\nOur records indicate that you have device with asset tag P1000433, Description: undefined and we need you to certify whether you have it or not.\\nPlease validate you asset(s) in My Assets page.\"}","afcf4f6c00ea3070a7e0608264a51f9c":"{\"area\":\"Leidit Assets audit contact\",\"sn_atf_mugshot_short_description\":\"Text &lt;input&gt;: Recipient✱\",\"role\":\"textbox\",\"sn_atf_mugshot_long_description\":\"Text &lt;input&gt; [recipient]: Recipient✱ in page area Leidit Assets audit contact\",\"methods\":[\"setValue\"],\"sn_atf_mugshot_label\":\"Recipient✱\",\"type\":\"email\",\"version\":\"18.0\",\"label_for_input\":{\"inner_text\":\"Recipient✱\"},\"get_value_result\":\"\",\"sn_atf_mugshot_tag_display_name\":\"Text &lt;input&gt;\",\"name\":\"recipient\",\"sn_atf_mugshot_value\":\"\",\"tag\":\"input\",\"isDisabled\":false,\"id\":\"recipient\",\"hash\":\"afcf4f6c00ea3070a7e0608264a51f9c\",\"html_value\":\"\"}"}</mugshots_cache_json>
+        <notes/>
+        <order>11</order>
+        <snapshot/>
+        <step_config display_value="Set Component Values (Custom UI)">e5dd168473330300c79260bdfaf6a794</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>akopti</sys_created_by>
+        <sys_created_on>2021-06-29 16:42:26</sys_created_on>
+        <sys_id>06b13da51b09745048da8489cc4bcbbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Component Values (Custom UI)</sys_name>
+        <sys_package display_value="Tests My Assets" source="x_leidi_tests_my_a">7f09692d1bc5745048da8489cc4bcb54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tests My Assets">7f09692d1bc5745048da8489cc4bcb54</sys_scope>
+        <sys_update_name>sys_atf_step_06b13da51b09745048da8489cc4bcbbf</sys_update_name>
+        <sys_updated_by>akopti</sys_updated_by>
+        <sys_updated_on>2021-06-29 16:42:26</sys_updated_on>
+        <table/>
+        <test display_value="Test EX#0021 Disputing asset copy">7db179a51b09745048da8489cc4bcb13</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=06b13da51b09745048da8489cc4bcbbf"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>06b13da51b09745048da8489cc4bcbbf</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>akopti</sys_created_by>
+        <sys_created_on>2021-06-29 16:42:26</sys_created_on>
+        <sys_id>06b13da51b09745048da8489cc4bcbc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>akopti</sys_updated_by>
+        <sys_updated_on>2021-06-29 16:42:26</sys_updated_on>
+        <value>afcf4f6c00ea3070a7e0608264a51f9c=Anton Kopti^076722419422976880c1e9c8a94e2fb5=test test^EQ</value>
+        <variable display_value="">d12fde8473330300c79260bdfaf6a7b5</variable>
+    </sys_variable_value>
+</record_update>

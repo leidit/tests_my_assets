@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Click Component (Custom UI)">146cad191b09f450888fea8bbc4bcbe2</copied_from>
+        <description>Click the component: 'Button &lt;button&gt;: I don't have this equipment'</description>
+        <display_name>Click Component (Custom UI)</display_name>
+        <inputs/>
+        <mugshots_cache_json>{"8858cb09f0eb5650c8ca04a83857c6e0":"{\"area\":\"My Assets/My Assets\",\"sn_atf_mugshot_short_description\":\"Button &lt;button&gt;: I don't have this equipment\",\"sn_atf_mugshot_long_description\":\"Button &lt;button&gt;: I don't have this equipment in page area My Assets/My Assets\",\"methods\":[\"click\"],\"sn_atf_mugshot_label\":\"I don't have this equipment\",\"index\":1,\"type\":\"submit\",\"title\":\"I don't have this equipment\",\"version\":\"18.0\",\"get_value_result\":\"\",\"sn_atf_mugshot_tag_display_name\":\"Button &lt;button&gt;\",\"sn_atf_mugshot_value\":\"\",\"tag\":\"button\",\"isDisabled\":false,\"hash\":\"8858cb09f0eb5650c8ca04a83857c6e0\"}"}</mugshots_cache_json>
+        <notes/>
+        <order>2</order>
+        <snapshot display_value="182e6d3a76bd97adc16ba4255014db37">24ac25591b09f450888fea8bbc4bcbe4</snapshot>
+        <step_config display_value="Click Component (Custom UI)">def25c4b73730300c79260bdfaf6a700</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>akopti</sys_created_by>
+        <sys_created_on>2021-06-29 16:42:25</sys_created_on>
+        <sys_id>31b13da51b09745048da8489cc4bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Click Component (Custom UI)</sys_name>
+        <sys_package display_value="Tests My Assets" source="x_leidi_tests_my_a">7f09692d1bc5745048da8489cc4bcb54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tests My Assets">7f09692d1bc5745048da8489cc4bcb54</sys_scope>
+        <sys_update_name>sys_atf_step_31b13da51b09745048da8489cc4bcb9c</sys_update_name>
+        <sys_updated_by>akopti</sys_updated_by>
+        <sys_updated_on>2021-06-29 16:42:25</sys_updated_on>
+        <table/>
+        <test display_value="Test EX#0021 Disputing asset copy">7db179a51b09745048da8489cc4bcb13</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=31b13da51b09745048da8489cc4bcb9c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>31b13da51b09745048da8489cc4bcb9c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>akopti</sys_created_by>
+        <sys_created_on>2021-06-29 16:42:25</sys_created_on>
+        <sys_id>fdb13da51b09745048da8489cc4bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>akopti</sys_updated_by>
+        <sys_updated_on>2021-06-29 16:42:25</sys_updated_on>
+        <value>8858cb09f0eb5650c8ca04a83857c6e0</value>
+        <variable display_value="">ee05588b73730300c79260bdfaf6a749</variable>
+    </sys_variable_value>
+</record_update>
