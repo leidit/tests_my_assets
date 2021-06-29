@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Click Component (Custom UI)">f7e53d911b49f450888fea8bbc4bcb4d</copied_from>
+        <description>Click the component: 'Menu item &lt;a&gt;:  Disputed Assets '</description>
+        <display_name>Click Component (Custom UI)</display_name>
+        <inputs/>
+        <mugshots_cache_json>{"ce7e33c89264b6597e16454294caf850":"{\"area\":\"Leidit My Assets Header/My Assets Header Menu Instance\",\"sn_atf_mugshot_short_description\":\"Menu item &lt;a&gt;:  Disputed Assets \",\"inner_text\":\" \\n  Disputed Assets \",\"role\":\"menuitem\",\"sn_atf_mugshot_long_description\":\"Menu item &lt;a&gt;: Disputed Assets in page area Leidit My Assets Header/My Assets Header Menu Instance\",\"methods\":[\"click\"],\"sn_atf_mugshot_label\":\" \\n  Disputed Assets \",\"type\":\"\",\"version\":\"18.0\",\"get_value_result\":\" \\n  Disputed Assets \",\"sn_atf_mugshot_tag_display_name\":\"Menu item &lt;a&gt;\",\"sn_atf_mugshot_value\":\"\",\"tag\":\"a\",\"isDisabled\":false,\"hash\":\"ce7e33c89264b6597e16454294caf850\"}"}</mugshots_cache_json>
+        <notes/>
+        <order>5</order>
+        <snapshot/>
+        <step_config display_value="Click Component (Custom UI)">def25c4b73730300c79260bdfaf6a700</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>akopti</sys_created_by>
+        <sys_created_on>2021-06-29 16:43:44</sys_created_on>
+        <sys_id>8d0231e51b09745048da8489cc4bcbfa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Click Component (Custom UI)</sys_name>
+        <sys_package display_value="Tests My Assets" source="x_leidi_tests_my_a">7f09692d1bc5745048da8489cc4bcb54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tests My Assets">7f09692d1bc5745048da8489cc4bcb54</sys_scope>
+        <sys_update_name>sys_atf_step_8d0231e51b09745048da8489cc4bcbfa</sys_update_name>
+        <sys_updated_by>akopti</sys_updated_by>
+        <sys_updated_on>2021-06-29 16:43:44</sys_updated_on>
+        <table/>
+        <test display_value="Test EX#0022  Verifying Asset copy">3c027da51b09745048da8489cc4bcbb1</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=8d0231e51b09745048da8489cc4bcbfa"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8d0231e51b09745048da8489cc4bcbfa</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>akopti</sys_created_by>
+        <sys_created_on>2021-06-29 16:43:44</sys_created_on>
+        <sys_id>0d0231e51b09745048da8489cc4bcbfb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>akopti</sys_updated_by>
+        <sys_updated_on>2021-06-29 16:43:44</sys_updated_on>
+        <value>ce7e33c89264b6597e16454294caf850</value>
+        <variable display_value="">ee05588b73730300c79260bdfaf6a749</variable>
+    </sys_variable_value>
+</record_update>
